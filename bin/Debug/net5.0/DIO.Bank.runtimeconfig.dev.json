@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Hélio\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Hélio\\.nuget\\packages"
+    ]
+  }
+}
